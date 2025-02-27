@@ -13,7 +13,7 @@ title                    : "Faishal Rahaman"
 title_separator          : "-"
 name                     : &name "Faishal Rahaman"
 description              : &description "personal description"
-url                      : https://faishal.rahaman.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : 'https://faishal.rahaman.github.io' # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Faishal Rahaman"
   pronouns         : # example: "she/her"  
-  bio              : "Faishal Rahaman(full name Md. Faishal Rahaman) is a Bangladeshi Ph.D. candidate in the School of Mechanical Engineering at the Beijing Institute of Technology, Beijing, China. His research focuses on intelligent vehicles, multi-agent formation control, collaborative path planning, environmental perception, and sensor fusion. His work explores unmanned vehicle coordination, SLAM, deep learning-based perception, and model predictive control strategies to enhance the efficiency and safety of autonomous systems. He has presented and published research in renowned international conferences, including ICMEE2024, PESS2023, and IRASET2024. He has contributed to high-impact journals on topics related to autonomous vehicle lane detection, multiple unmanned vehicle formation control, and their collaborations."
+  bio              : "Faishal Rahaman is a Bangladeshi Ph.D. candidate in the School of Mechanical Engineering at the Beijing Institute of Technology, Beijing, China."
   location         : "Beijing, China"
   employer         : "Beijing Institute of Technology"
   uri              :  'faishal.rahaman.github.io'
