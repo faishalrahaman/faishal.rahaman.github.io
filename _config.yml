@@ -9,11 +9,11 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Faishal Rahaman"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Faishal Rahaman"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://faishal.rahaman.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -23,9 +23,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Md. Faishal Rahaman"
+  name             : "Faishal Rahaman"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Faishal Rahaman(full name Md. Faishal Rahaman) is a Bangladeshi Ph.D. candidate in the School of Mechanical Engineering at the Beijing Institute of Technology, Beijing, China. His research focuses on intelligent vehicles, multi-agent formation control, collaborative path planning, environmental perception, and sensor fusion. His work explores unmanned vehicle coordination, SLAM, deep learning-based perception, and model predictive control strategies to enhance the efficiency and safety of autonomous systems. He has presented and published research in renowned international conferences, including ICMEE2024, PESS2023, and IRASET2024. He has contributed to high-impact journals on topics related to autonomous vehicle lane detection, multiple unmanned vehicle formation control, and their collaborations."
   location         : "Beijing, China"
   employer         : "Beijing Institute of Technology"
   uri              :  'faishal.rahaman.github.io'
@@ -61,7 +61,7 @@ author:
   lastfm           : # Username
   linkedin         : # Username
   mastodon         : # URL
-  medium           : # URL
+  medium           :  'https://medium.com/@faishalrahaman'
   pinterest        : # Username
   soundcloud       : # Username
   steam            : # Username
